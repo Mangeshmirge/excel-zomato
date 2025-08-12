@@ -11,8 +11,9 @@ Data Analysis – Segmented by country, cuisine, cost, ratings, and service opti
 Trend Analysis – Studied growth patterns by year, month, and quarter.
 Insight Extraction – Identified top cuisines, rating patterns, and service preferences.
 
-![zomato next page](https://github.com/user-attachments/assets/1c411b5f-9819-4234-85cd-93a62696d880)
-![zomato next page](https://github.com/user-attachments/assets/a8d3b0b2-48ee-44c5-a978-c6b5676b4f8b)
+![zomato screenshot](https://github.com/user-attachments/assets/0778acc1-d70e-40c9-9ad7-191c8038a3a7)
+![zomato next page](https://github.com/user-attachments/assets/9e90073d-8aad-4e99-a8d2-77d0610060ab)
+
 
 
 ---------------------------------------------------------------------------------------------------------
